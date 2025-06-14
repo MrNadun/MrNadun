@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadun Navodya</h1>
-<h3 align="center">Developer • Builder • Engineer</h3>
+<h3 align="center">Developer • Builder • Desiner </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Nightware+Engineer;WhatsApp+Bot+Developer;Node.js+%7C+Termux+%7C+CLI+Wizard;From+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Desiner;WhatsApp+Bot+Developer;Node.js+%7C+Termux+%7C+CLI+Wizard;From+Sri+Lanka" alt="Typing SVG" />
 </p>
 
 ---
@@ -64,5 +64,3 @@
 </p>
 
 ---
-
-> 🌙 "Code under the moon. Debug before dawn."
