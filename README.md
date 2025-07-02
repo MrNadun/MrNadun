@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://ibb.co/6RcT85LW]" alt="Nadun Logo" width="120" style="border-radius:50%;" />
+  <!-- <img src="[https://ibb.co/6RcT85LW]" alt="Nadun Logo" width="120" style="border-radius:50%;" /> -->
+  <a href="https://ibb.co/6RcT85LW"><img src="https://i.ibb.co/6RcT85LW/abstract-1.png" alt="MrNadun" border="0"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nadun Navodya</h1>
